@@ -32,3 +32,6 @@ catalog = pystac_client.Client.open("https://planetarycomputer.microsoft.com/api
 2020 tiger/line® shapefiles: County+subdivisions. United States Census Bureau. (n.d.). https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2020&layergroup=County%2BSubdivisions
 
 Microsoft Planetary Computer. Planetary Computer. (n.d.). https://planetarycomputer.microsoft.com/dataset/io-biodiversity
+
+## Acknowledgements
+This repository was created as part of a final project for the course EDS 220 - Working with Environmental Datasets.
