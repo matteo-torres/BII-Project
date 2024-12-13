@@ -9,15 +9,18 @@ This study aims to investigate the effects of urban expansion in Phoenix, AZ by 
 ## Repository Structure
 ```bash
 bii-project
-│   README.md
-│   bii-phoenix.ipynb
-│   .gitignore
-│
+├── README.md
+├── .gitignore
+├── bii-phoenix.ipynb
 └── data
-    │
     └── tl_2020_04_cousub
-        │
-        └── tl_2020_04_cousub.shp
+        ├── tl_2020_04_cousub.cpg
+        ├── tl_2020_04_cousub.dbf
+        ├── tl_2020_04_cousub.prj
+        ├── tl_2020_04_cousub.shp
+        ├── tl_2020_04_cousub.shp.ea.iso.xml
+        ├── tl_2020_04_cousub.shp.iso.xml
+        └── tl_2020_04_cousub.shx
 ```
 
 ## Data
